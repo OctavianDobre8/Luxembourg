@@ -18,9 +18,7 @@ A project that uses Djiskstra's algorithm to show the shortest path in the count
 </ul>
 
 # Photos 
+Default image of the map before applying the algorithm:
 ![image](https://github.com/RalucaDavid/Luxembourg_Map/assets/117584603/64bd1f98-9a1c-41ca-8140-f54ba0589747)
-
-
-
-
+The road being shown after selecting the start and end nodes along with pressing the Djikstra button:
 ![image](https://github.com/RalucaDavid/Luxembourg_Map/assets/117584603/988f7e6a-b4c2-4c80-8e11-248baafbdc7a)
